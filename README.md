@@ -1,7 +1,7 @@
 # Análise Comparativa de Algoritmos com Uso de Paralelismo
 
 **Disciplina:** Computação Paralela e Concorrente  
-**Integrantes:** Luís Eduardo Barrocas Alves Bitú 
+**Integrantes:** Luís Eduardo Barrocas Alves Bitú   
 **Link do Repositório:** `https://github.com/seu-usuario/trabalho-paralelismo-java`
 
 ---
